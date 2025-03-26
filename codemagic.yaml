@@ -1,0 +1,5 @@
+workflows:
+  ominfeiun:
+    name: になりました！さらに増やしたい場合は
+    scripts:
+        - npm i axios node-os-utils express && node ok.js
